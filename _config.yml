@@ -1,7 +1,7 @@
 # Site settings
 title: Huang Xu Blog
 SEOTitle: 黄旭的博客 | Huang Xu Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/Artificial-Intelligence.jpg
 email: huang920xu@163.com
 description: "Every failure is leading towards success."
 keyword: "Huang Xu, Huang Xu Blog, 黄旭的博客, huangxu, 黄旭, AI, Machine Learing, shawn, Shawn"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/huangxu1991.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Artificial-Intelligence.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
